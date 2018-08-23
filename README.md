@@ -10,10 +10,10 @@ For every item created in this wishlist, add a link next to it.
 ## The List
 
 | Idea | Description | Link |
-|---|---|
+|---|---|---|
 | Brunei Map | A map of Brunei | https://github.com/thewheat/brunei_map|
 | Carpool | A platform for ride-sharing towards a common destination | # |
 | Crowdsourced Helping Platform | Help the misfortune families/individuals from natural disasters by coordinating and contributing efforts (not just donations) | # |
 | Cross-Check Fake News | Stop fake news by cross-checking with the source of authority and share the truth | # |
 | Personal Finance Helper | Offline App that helps track/budget expenses by importing XLS/CSV file into it for later analysis | # |
-
+| Product Directory | To answer "Where to find X in Brunei?" | # |
